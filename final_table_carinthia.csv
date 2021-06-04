@@ -1,0 +1,112 @@
+town,lat,lon,region,population,german frac,slovenian frac
+Afritz,13.79,46.73,Villach Land,967,0.999,0.001
+Annabichl,14.32,46.65,Klagenfurt,2595,0.982,0.018
+Arnoldstein,13.73,46.55,Villach Land,3890,0.601,0.399
+Arriach,13.86,46.73,Villach Land,1188,0.992,0.008
+Augsdorf,14.02,46.59,Villach Land,2188,0.26,0.74
+Bleiberg,13.68,46.63,Villach Land,3314,0.994,0.006
+Bleiburg,14.8,46.59,Völkermarkt,1051,0.882,0.118
+Diex,14.67,46.73,Völkermarkt,1601,0.123,0.877
+Ebenthal,14.39,46.61,Klagenfurt Land,1289,0.493,0.507
+Eberndorf,14.66,46.6,Völkermarkt,2752,0.218,0.782
+Eberstein,14.57,46.79,Sankt Veit an der Glan,2214,0.979,0.021
+Egg,13.42,46.61,Hermagor,1312,0.116,0.884
+Eisenkappel,14.59,46.49,Völkermarkt,1150,0.737,0.263
+Emersdorf,13.59,46.6,Villach Land,1983,0.506,0.494
+Ettendorf,14.95,46.68,Wolfsberg,1400,1,0
+Feistritz,14.64,46.55,Völkermarkt,3476,0.211,0.789
+Feld,13.75,46.76,Villach Land,586,0.997,0.003
+Feldkirchen,14.1,46.73,Feldkirchen,4595,1,0
+Finkenstein,13.87,46.56,Villach Land,3829,0.463,0.537
+Görtschach,13.47,46.63,Hermagor,601,0.103,0.897
+Gallizien,14.51,46.55,Völkermarkt,1050,0.02,0.98
+Glanegg,14.2,46.73,Feldkirchen,609,1,0
+Globasnitz,14.7,46.56,Völkermarkt,1280,0.016,0.984
+Grafenstein,14.47,46.62,Klagenfurt Land,1835,0.502,0.498
+Granitzthal,14.82,46.7,Wolfsberg,1592,0.985,0.015
+Griffen,14.73,46.71,Völkermarkt,3185,0.264,0.736
+Guggenberg,13.29,46.63,Hermagor,259,1,0
+Hörtendorf,14.37,46.64,Klagenfurt Land,716,0.649,0.351
+Hörzendorf,14.33,46.72,Sankt Veit an der Glan,944,1,0
+Haimburg,14.66,46.67,Völkermarkt,2629,0.155,0.845
+Hardegg,14.26,46.71,Sankt Veit an der Glan,465,1,0
+Hermagor,13.37,46.63,Hermagor,962,1,0
+Hohenthurn,13.63,46.56,Villach Land,1770,0.107,0.893
+Köstenberg,14.02,46.65,Villach Land,963,0.342,0.658
+Köttmannsdorf,14.25,46.56,Klagenfurt Land,1442,0.426,0.574
+Keutschach,14.19,46.6,Klagenfurt Land,1710,0.253,0.747
+Klagenfurt,14.31,46.62,Klagenfurt,24836,0.976,0.024
+Klein St. Paul,14.55,46.84,Sankt Veit an der Glan,1250,1,0
+Krumpendorf,14.22,46.64,Klagenfurt,800,0.938,0.063
+Landskron,13.87,46.63,Villach,4445,0.977,0.023
+Lavamünd,14.94,46.65,Wolfsberg,1539,0.959,0.041
+Legerbuch,14.89,46.68,Wolfsberg,531,0.994,0.006
+Leifling,14.9,46.63,Völkermarkt,1186,0.03,0.97
+Lendorf,14.26,46.65,Klagenfurt,768,0.978,0.022
+Loibach,14.82,46.57,Völkermarkt,1355,0.104,0.896
+Ludmannsdorf,14.16,46.55,Klagenfurt Land,755,0.04,0.96
+Möschach,13.36,46.64,Hermagor,935,1,0
+Maria Feicht,14.21,46.71,Feldkirchen,404,1,0
+Maria Gail,13.9,46.6,Villach,1585,0.573,0.427
+Maria Saal,14.35,46.69,Klagenfurt Land,2166,0.987,0.013
+Mieger,14.44,46.58,Klagenfurt Land,969,0.038,0.962
+Mitschig,13.34,46.62,Hermagor,798,1,0
+Moos,14.79,46.62,Völkermarkt,1483,0.022,0.978
+Moosburg,14.18,46.67,Klagenfurt Land,2086,0.997,0.003
+Niederdörfl,14.42,46.54,Klagenfurt Land,1152,0.076,0.924
+Oberdörfl,14.1,46.55,Klagenfurt Land,384,0.091,0.909
+Oberferlach,14.33,46.52,Klagenfurt Land,3147,0.898,0.102
+Ottmanach,14.42,46.7,Klagenfurt Land,718,0.975,0.025
+Pölling,14.79,46.77,Wolfsberg,424,1,0
+Pörtschach am See,14.15,46.64,Klagenfurt Land,1340,0.935,0.065
+Paternion,13.65,46.7,Villach Land,4332,1,0
+Ponfeld,14.24,46.67,Klagenfurt,814,1,0
+Pulst,14.29,46.75,Sankt Veit an der Glan,1110,1,0
+Pustritz,14.74,46.76,Wolfsberg,1125,0.997,0.003
+Rückersdorf,14.55,46.58,Völkermarkt,1785,0.055,0.945
+Radsberg,14.38,46.58,Klagenfurt Land,711,0.3,0.7
+Rattendorf,13.24,46.62,Hermagor,528,1,0
+Rosegg,14,46.57,Villach Land,1562,0.056,0.944
+Ruden,14.79,46.67,Völkermarkt,1534,0.133,0.867
+Schiefling,14.1,46.6,Klagenfurt Land,1414,0.084,0.916
+Schwabegg,14.85,46.64,Völkermarkt,445,0.011,0.989
+Sittersdorf,14.61,46.55,Völkermarkt,1530,0.197,0.803
+Sittich,14.13,46.71,Feldkirchen,790,1,0
+St. Andrä,14.81,46.76,Wolfsberg,1383,1,0
+St. Georgen,14.91,46.72,Wolfsberg,2364,0.993,0.007
+St. Georgen am Längsee,14.43,46.76,Sankt Veit an der Glan,2925,1,0
+St. Jakob,14.05,46.55,Villach Land,3536,0.102,0.898
+St. Johann am Brückl,14.52,46.73,Sankt Veit an der Glan,2142,0.89,0.11
+St. Kanzian,14.59,46.61,Völkermarkt,1185,0.14,0.86
+St. Lorenzen im Gitschthale,13.3,46.66,Hermagor,668,1,0
+St. Martin,13.81,46.6,Villach,4938,0.991,0.009
+St. Martin am Techelsberg,14.09,46.65,Klagenfurt Land,1404,0.623,0.377
+St. Martin bei Klagenfurt,14.28,46.62,Klagenfurt,1508,0.856,0.144
+St. Peter am Bichl,14.27,46.69,Klagenfurt,554,0.998,0.002
+St. Peter bei Klagenfurt,14.35,46.62,Klagenfurt,2459,0.956,0.044
+St. Ruprecht,14.31,46.61,Klagenfurt,4710,0.977,0.023
+St. Stefan an der Gail,13.53,46.62,Hermagor,1851,0.075,0.925
+St. Thomas,14.42,46.67,Klagenfurt Land,1466,0.809,0.191
+St. Veit,14.36,46.77,Sankt Veit an der Glan,5188,1,0
+Steindorf,14.04,46.69,Feldkirchen,2994,0.994,0.006
+Tainach,14.54,46.63,Völkermarkt,596,0.247,0.753
+Toppelsdorf,14.32,46.56,Klagenfurt Land,1049,0.698,0.302
+Tröppolach,13.29,46.61,Hermagor,571,1,0
+Treffen,13.86,46.68,Villach Land,2771,1,0
+Unter-Drauburg,14.99,46.62,Wolfsberg,345,0.4,0.6
+Unterferlach,14.34,46.54,Klagenfurt Land,1096,0.342,0.658
+Unterloibl,14.25,46.51,Klagenfurt Land,2358,0.347,0.653
+Völkermarkt,14.62,46.66,Völkermarkt,2597,0.801,0.199
+Velden,14.04,46.62,Villach Land,835,0.814,0.186
+Vellach,14.6,46.5,Völkermarkt,2572,0.032,0.968
+Viktring,14.27,46.59,Klagenfurt,1531,0.845,0.155
+Villach,13.86,46.61,Villach,13672,0.998,0.002
+Vorderberg,13.52,46.6,Hermagor,548,0.033,0.967
+Waisenberg,14.56,46.68,Völkermarkt,2864,0.35,0.65
+Weißenstein,13.72,46.68,Villach Land,1106,0.993,0.007
+Weidegg,13.24,46.63,Hermagor,254,1,0
+Weissbriach,13.26,46.68,Hermagor,771,1,0
+Weizelsdorf,14.22,46.53,Klagenfurt Land,883,0.106,0.894
+Wernberg,13.96,46.62,Villach Land,2326,0.281,0.719
+Windisch-St. Michael,14.47,46.66,Klagenfurt Land,1464,0.41,0.59
+Zell,14.4,46.48,Klagenfurt Land,1027,0.013,0.987
