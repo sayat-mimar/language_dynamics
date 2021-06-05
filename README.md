@@ -8,5 +8,7 @@ Data
 
 Code
 
-Source code in 'turing_instability_for_language_dynamics_galicia.ipynb' implements the language spread on the geographical network of Galicia where edgeweights are determined by the Gravity Law. Language concentrations diffuse similar to the Turing Mechanism (for theoretical background of Turing instability on networks, see PhysRevE.99.062303) and form the patterns. Simmulation concentrations are then aggragated to Region level and compared to the actual fractions of speakers.
+Source code in 'turing_instability_for_language_dynamics_galicia.ipynb' and 'turing_instability_for_language_dynamics_carinthia.ipynb' implement the language spread on the geographical network of Galicia and Carinthia where edgeweights are determined by the Gravity Law. Language concentrations diffuse similar to the Turing Mechanism (for theoretical background of Turing instability on networks, see PhysRevE.99.062303) and form the patterns. Simmulation concentrations are then aggragated to Region level and compared to the actual fractions of speakers.
+
+'eigenvalue_distribution.ipynb' computes the eigenvalue distribution of the empirical networks and identifies the instability ranges that triggers the instability (see Figure S1.).
 
